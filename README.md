@@ -2,7 +2,8 @@
 A simple Javascript program that checks how secure a password is.
 
 #How to run
-Go to https://htmlpreview.github.io/?https://github.com/nojgames/Password-Checker/index.html
+Download the project and open index.html.
+
 #Changes
 The program isn't that good yet as it only says whether a password
 is secure or not based on the length. If you have any changes to
