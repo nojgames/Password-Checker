@@ -8,7 +8,14 @@ else if (password.length < 10) {
 	alert("Your password is pretty secure.");
 }
 
-else {
-	alert("Your password is super secure. Awesome!");
+else if (password.length < 20) {
+	alert("Your password is super secure. Aesome!");
+
 }
+
+else {
+	alert("Are you sure you can remember that? If you can, your password is super secure. Well done!");
+}
+
+
 
