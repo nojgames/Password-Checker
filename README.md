@@ -15,4 +15,6 @@ You may distribute this program under the terms of the Apache 2.0 license,
 which can be found in the LICENSE.TXT file.
 
 #Credits
-This whole program was created by me in 2016.
+The original project was created by me. After developing it, I figured that
+it needs a lot more work if I want it to become a real password strength
+checker. That's why I put it on GitHub.
